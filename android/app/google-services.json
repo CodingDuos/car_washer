@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120065699320",
+    "firebase_url": "https://papakilo-57e26-default-rtdb.firebaseio.com",
+    "project_id": "papakilo-57e26",
+    "storage_bucket": "papakilo-57e26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120065699320:android:8630005a4dccc42e87fa0d",
+        "android_client_info": {
+          "package_name": "com.example.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120065699320-ktm4jk7fukdglpifa19uf44cgajet8ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.customer",
+            "certificate_hash": "b0c1e9ef16dd558c3a556f6d26d6e360616c0851"
+          }
+        },
+        {
+          "client_id": "120065699320-f21s1bgtv4jvlceqafhl99o2louj23vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDoJmKff24KUTsrwVm-bDMLApxdHIwqL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120065699320-f21s1bgtv4jvlceqafhl99o2louj23vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
